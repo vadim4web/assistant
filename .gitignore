@@ -3,3 +3,4 @@ __pycache__/
 session_*.session
 assistant_session.session
 session.b64
+.env
