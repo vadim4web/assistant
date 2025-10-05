@@ -1,0 +1,5 @@
+__pycache__/
+*.session
+session_*.session
+assistant_session.session
+session.b64
